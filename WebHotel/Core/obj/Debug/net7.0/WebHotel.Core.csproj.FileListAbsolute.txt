@@ -10,3 +10,15 @@ C:\Users\GIGABYTE\Desktop\WebHotel\Core\obj\Debug\net7.0\WebHotel.Core.dll
 C:\Users\GIGABYTE\Desktop\WebHotel\Core\obj\Debug\net7.0\refint\WebHotel.Core.dll
 C:\Users\GIGABYTE\Desktop\WebHotel\Core\obj\Debug\net7.0\WebHotel.Core.pdb
 C:\Users\GIGABYTE\Desktop\WebHotel\Core\obj\Debug\net7.0\ref\WebHotel.Core.dll
+F:\file ôn tập C#\Tip&Trick_2012384\PT\WebHotel\Core\bin\Debug\net7.0\WebHotel.Core.deps.json
+F:\file ôn tập C#\Tip&Trick_2012384\PT\WebHotel\Core\bin\Debug\net7.0\WebHotel.Core.dll
+F:\file ôn tập C#\Tip&Trick_2012384\PT\WebHotel\Core\bin\Debug\net7.0\WebHotel.Core.pdb
+F:\file ôn tập C#\Tip&Trick_2012384\PT\WebHotel\Core\obj\Debug\net7.0\WebHotel.Core.csproj.AssemblyReference.cache
+F:\file ôn tập C#\Tip&Trick_2012384\PT\WebHotel\Core\obj\Debug\net7.0\WebHotel.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\file ôn tập C#\Tip&Trick_2012384\PT\WebHotel\Core\obj\Debug\net7.0\WebHotel.Core.AssemblyInfoInputs.cache
+F:\file ôn tập C#\Tip&Trick_2012384\PT\WebHotel\Core\obj\Debug\net7.0\WebHotel.Core.AssemblyInfo.cs
+F:\file ôn tập C#\Tip&Trick_2012384\PT\WebHotel\Core\obj\Debug\net7.0\WebHotel.Core.csproj.CoreCompileInputs.cache
+F:\file ôn tập C#\Tip&Trick_2012384\PT\WebHotel\Core\obj\Debug\net7.0\WebHotel.Core.dll
+F:\file ôn tập C#\Tip&Trick_2012384\PT\WebHotel\Core\obj\Debug\net7.0\refint\WebHotel.Core.dll
+F:\file ôn tập C#\Tip&Trick_2012384\PT\WebHotel\Core\obj\Debug\net7.0\WebHotel.Core.pdb
+F:\file ôn tập C#\Tip&Trick_2012384\PT\WebHotel\Core\obj\Debug\net7.0\ref\WebHotel.Core.dll
