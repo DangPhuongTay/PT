@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8fVOFC/RqnH+FjytMX/1HqxmURIHyarppxto7eZe7+yAdGpq5/AGBuqHZw8KZli/bwn/b2qcKtKSxJaxxl74GA==",
+  "dgSpecHash": "x0rudV6BGNsa7g3Xg8MPd/KcRRgNCu7NDIir06apyuIuv3iQNB2eZtkatp9YZoND4Io3Pmif9kWo+VyMZDDATA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\GIGABYTE\\Desktop\\WebHotel\\WinApp\\WebHotel.WinApp.csproj",
+  "projectFilePath": "C:\\Users\\GIGABYTE\\Documents\\GitHub\\PT\\WebHotel\\WinApp\\WebHotel.WinApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GIGABYTE\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\GIGABYTE\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

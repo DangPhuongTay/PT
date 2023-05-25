@@ -3592,11 +3592,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GIGABYTE\\Desktop\\WebHotel\\WinApp\\WebHotel.WinApp.csproj",
+      "projectUniqueName": "C:\\Users\\GIGABYTE\\Documents\\GitHub\\PT\\WebHotel\\WinApp\\WebHotel.WinApp.csproj",
       "projectName": "WebHotel.WinApp",
-      "projectPath": "C:\\Users\\GIGABYTE\\Desktop\\WebHotel\\WinApp\\WebHotel.WinApp.csproj",
+      "projectPath": "C:\\Users\\GIGABYTE\\Documents\\GitHub\\PT\\WebHotel\\WinApp\\WebHotel.WinApp.csproj",
       "packagesPath": "C:\\Users\\GIGABYTE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GIGABYTE\\Desktop\\WebHotel\\WinApp\\obj\\",
+      "outputPath": "C:\\Users\\GIGABYTE\\Documents\\GitHub\\PT\\WebHotel\\WinApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3618,14 +3618,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\GIGABYTE\\Desktop\\WebHotel\\Core\\WebHotel.Core.csproj": {
-              "projectPath": "C:\\Users\\GIGABYTE\\Desktop\\WebHotel\\Core\\WebHotel.Core.csproj"
+            "C:\\Users\\GIGABYTE\\Documents\\GitHub\\PT\\WebHotel\\Core\\WebHotel.Core.csproj": {
+              "projectPath": "C:\\Users\\GIGABYTE\\Documents\\GitHub\\PT\\WebHotel\\Core\\WebHotel.Core.csproj"
             },
-            "C:\\Users\\GIGABYTE\\Desktop\\WebHotel\\Data\\WebHotel.Data.csproj": {
-              "projectPath": "C:\\Users\\GIGABYTE\\Desktop\\WebHotel\\Data\\WebHotel.Data.csproj"
+            "C:\\Users\\GIGABYTE\\Documents\\GitHub\\PT\\WebHotel\\Data\\WebHotel.Data.csproj": {
+              "projectPath": "C:\\Users\\GIGABYTE\\Documents\\GitHub\\PT\\WebHotel\\Data\\WebHotel.Data.csproj"
             },
-            "C:\\Users\\GIGABYTE\\Desktop\\WebHotel\\Services\\WebHotel.Services.csproj": {
-              "projectPath": "C:\\Users\\GIGABYTE\\Desktop\\WebHotel\\Services\\WebHotel.Services.csproj"
+            "C:\\Users\\GIGABYTE\\Documents\\GitHub\\PT\\WebHotel\\Services\\WebHotel.Services.csproj": {
+              "projectPath": "C:\\Users\\GIGABYTE\\Documents\\GitHub\\PT\\WebHotel\\Services\\WebHotel.Services.csproj"
             }
           }
         }

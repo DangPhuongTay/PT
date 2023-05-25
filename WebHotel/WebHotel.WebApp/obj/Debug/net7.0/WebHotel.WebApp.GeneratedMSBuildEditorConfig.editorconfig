@@ -9,109 +9,109 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebHotel.WebApp
 build_property.RootNamespace = WebHotel.WebApp
-build_property.ProjectDir = C:\Users\GIGABYTE\Desktop\WebHotel\WebHotel.WebApp\
+build_property.ProjectDir = C:\Users\GIGABYTE\Documents\GitHub\PT\WebHotel\WebHotel.WebApp\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\GIGABYTE\Desktop\WebHotel\WebHotel.WebApp
+build_property.MSBuildProjectDirectory = C:\Users\GIGABYTE\Documents\GitHub\PT\WebHotel\WebHotel.WebApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/GIGABYTE/Desktop/WebHotel/WebHotel.WebApp/Views/Blog/Booking.cshtml]
+[C:/Users/GIGABYTE/Documents/GitHub/PT/WebHotel/WebHotel.WebApp/Views/Blog/Booking.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCb29raW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIGABYTE/Desktop/WebHotel/WebHotel.WebApp/Views/Blog/Customer.cshtml]
+[C:/Users/GIGABYTE/Documents/GitHub/PT/WebHotel/WebHotel.WebApp/Views/Blog/Customer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xDdXN0b21lci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIGABYTE/Desktop/WebHotel/WebHotel.WebApp/Views/Blog/Employee.cshtml]
+[C:/Users/GIGABYTE/Documents/GitHub/PT/WebHotel/WebHotel.WebApp/Views/Blog/Employee.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xFbXBsb3llZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIGABYTE/Desktop/WebHotel/WebHotel.WebApp/Views/Blog/Filer.cshtml]
+[C:/Users/GIGABYTE/Documents/GitHub/PT/WebHotel/WebHotel.WebApp/Views/Blog/Filer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xGaWxlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIGABYTE/Desktop/WebHotel/WebHotel.WebApp/Views/Blog/Folder.cshtml]
+[C:/Users/GIGABYTE/Documents/GitHub/PT/WebHotel/WebHotel.WebApp/Views/Blog/Folder.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xGb2xkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIGABYTE/Desktop/WebHotel/WebHotel.WebApp/Views/Blog/Hotel.cshtml]
+[C:/Users/GIGABYTE/Documents/GitHub/PT/WebHotel/WebHotel.WebApp/Views/Blog/Hotel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xIb3RlbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIGABYTE/Desktop/WebHotel/WebHotel.WebApp/Views/Blog/Index.cshtml]
+[C:/Users/GIGABYTE/Documents/GitHub/PT/WebHotel/WebHotel.WebApp/Views/Blog/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIGABYTE/Desktop/WebHotel/WebHotel.WebApp/Views/Blog/Service.cshtml]
+[C:/Users/GIGABYTE/Documents/GitHub/PT/WebHotel/WebHotel.WebApp/Views/Blog/Service.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xTZXJ2aWNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIGABYTE/Desktop/WebHotel/WebHotel.WebApp/Views/Blog/Template.cshtml]
+[C:/Users/GIGABYTE/Documents/GitHub/PT/WebHotel/WebHotel.WebApp/Views/Blog/Template.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xUZW1wbGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIGABYTE/Desktop/WebHotel/WebHotel.WebApp/Views/Blog/_BookingItem.cshtml]
+[C:/Users/GIGABYTE/Documents/GitHub/PT/WebHotel/WebHotel.WebApp/Views/Blog/_BookingItem.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xfQm9va2luZ0l0ZW0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIGABYTE/Desktop/WebHotel/WebHotel.WebApp/Views/Blog/_CustomerItem.cshtml]
+[C:/Users/GIGABYTE/Documents/GitHub/PT/WebHotel/WebHotel.WebApp/Views/Blog/_CustomerItem.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xfQ3VzdG9tZXJJdGVtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIGABYTE/Desktop/WebHotel/WebHotel.WebApp/Views/Blog/_EmployeeItem.cshtml]
+[C:/Users/GIGABYTE/Documents/GitHub/PT/WebHotel/WebHotel.WebApp/Views/Blog/_EmployeeItem.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xfRW1wbG95ZWVJdGVtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIGABYTE/Desktop/WebHotel/WebHotel.WebApp/Views/Blog/_FilerItem.cshtml]
+[C:/Users/GIGABYTE/Documents/GitHub/PT/WebHotel/WebHotel.WebApp/Views/Blog/_FilerItem.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xfRmlsZXJJdGVtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIGABYTE/Desktop/WebHotel/WebHotel.WebApp/Views/Blog/_FolderItem.cshtml]
+[C:/Users/GIGABYTE/Documents/GitHub/PT/WebHotel/WebHotel.WebApp/Views/Blog/_FolderItem.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xfRm9sZGVySXRlbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIGABYTE/Desktop/WebHotel/WebHotel.WebApp/Views/Blog/_HotelItem.cshtml]
+[C:/Users/GIGABYTE/Documents/GitHub/PT/WebHotel/WebHotel.WebApp/Views/Blog/_HotelItem.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xfSG90ZWxJdGVtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIGABYTE/Desktop/WebHotel/WebHotel.WebApp/Views/Blog/_Pager.cshtml]
+[C:/Users/GIGABYTE/Documents/GitHub/PT/WebHotel/WebHotel.WebApp/Views/Blog/_Pager.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xfUGFnZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIGABYTE/Desktop/WebHotel/WebHotel.WebApp/Views/Blog/_RoomItem.cshtml]
+[C:/Users/GIGABYTE/Documents/GitHub/PT/WebHotel/WebHotel.WebApp/Views/Blog/_RoomItem.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xfUm9vbUl0ZW0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIGABYTE/Desktop/WebHotel/WebHotel.WebApp/Views/Blog/_ServiceItem.cshtml]
+[C:/Users/GIGABYTE/Documents/GitHub/PT/WebHotel/WebHotel.WebApp/Views/Blog/_ServiceItem.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xfU2VydmljZUl0ZW0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIGABYTE/Desktop/WebHotel/WebHotel.WebApp/Views/Blog/_TemplateItem.cshtml]
+[C:/Users/GIGABYTE/Documents/GitHub/PT/WebHotel/WebHotel.WebApp/Views/Blog/_TemplateItem.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xfVGVtcGxhdGVJdGVtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIGABYTE/Desktop/WebHotel/WebHotel.WebApp/Views/Shared/_Header.cshtml]
+[C:/Users/GIGABYTE/Documents/GitHub/PT/WebHotel/WebHotel.WebApp/Views/Shared/_Header.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIGABYTE/Desktop/WebHotel/WebHotel.WebApp/Views/Shared/_Layout.cshtml]
+[C:/Users/GIGABYTE/Documents/GitHub/PT/WebHotel/WebHotel.WebApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIGABYTE/Desktop/WebHotel/WebHotel.WebApp/Views/Shared/_SearchForm.cshtml]
+[C:/Users/GIGABYTE/Documents/GitHub/PT/WebHotel/WebHotel.WebApp/Views/Shared/_SearchForm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TZWFyY2hGb3JtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIGABYTE/Desktop/WebHotel/WebHotel.WebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/GIGABYTE/Documents/GitHub/PT/WebHotel/WebHotel.WebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIGABYTE/Desktop/WebHotel/WebHotel.WebApp/Views/_ViewImports.cshtml]
+[C:/Users/GIGABYTE/Documents/GitHub/PT/WebHotel/WebHotel.WebApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIGABYTE/Desktop/WebHotel/WebHotel.WebApp/Views/_ViewStart.cshtml]
+[C:/Users/GIGABYTE/Documents/GitHub/PT/WebHotel/WebHotel.WebApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
