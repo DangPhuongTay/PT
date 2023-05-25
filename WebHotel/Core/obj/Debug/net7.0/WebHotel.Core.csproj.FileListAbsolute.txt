@@ -1,0 +1,12 @@
+C:\Users\GIGABYTE\Desktop\WebHotel\Core\bin\Debug\net7.0\WebHotel.Core.deps.json
+C:\Users\GIGABYTE\Desktop\WebHotel\Core\bin\Debug\net7.0\WebHotel.Core.dll
+C:\Users\GIGABYTE\Desktop\WebHotel\Core\bin\Debug\net7.0\WebHotel.Core.pdb
+C:\Users\GIGABYTE\Desktop\WebHotel\Core\obj\Debug\net7.0\WebHotel.Core.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\Desktop\WebHotel\Core\obj\Debug\net7.0\WebHotel.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIGABYTE\Desktop\WebHotel\Core\obj\Debug\net7.0\WebHotel.Core.AssemblyInfoInputs.cache
+C:\Users\GIGABYTE\Desktop\WebHotel\Core\obj\Debug\net7.0\WebHotel.Core.AssemblyInfo.cs
+C:\Users\GIGABYTE\Desktop\WebHotel\Core\obj\Debug\net7.0\WebHotel.Core.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\Desktop\WebHotel\Core\obj\Debug\net7.0\WebHotel.Core.dll
+C:\Users\GIGABYTE\Desktop\WebHotel\Core\obj\Debug\net7.0\refint\WebHotel.Core.dll
+C:\Users\GIGABYTE\Desktop\WebHotel\Core\obj\Debug\net7.0\WebHotel.Core.pdb
+C:\Users\GIGABYTE\Desktop\WebHotel\Core\obj\Debug\net7.0\ref\WebHotel.Core.dll

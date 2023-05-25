@@ -1,0 +1,44 @@
+﻿@model Employee
+
+<article class="blog-entry mb-4">
+    <div class="card">
+        <div class="row g-0">
+
+            <div class="col-md-12">
+                <div class="card-body">
+                    <h5 class="card-title ">
+
+                        @Model.Name
+
+                    </h5>
+                    <p class="card-text">
+                        <small class="text-muted">
+                            Chức vụ:
+                        </small>
+
+                        <span class="text-primary">
+                            @Model.Job
+                        </span>
+                    </p>
+                    <p class="card-text">
+                        <small class="text-muted">
+                            SĐT:
+                        </small>
+
+                        <span class="text-primary">
+                            @Model.Phone
+                        </span>
+                    </p>
+
+
+                    <div class="text-end">
+                        <a class="btn btn-primary"
+                           title="@Model.Name">
+                            Xem chi tiết
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</article>

@@ -1,0 +1,31 @@
+﻿@using WebHotel.Services.Repositories;
+@model IPagedList<Filer>
+
+@{
+    ViewData["PageTitle"] = "File";
+
+    var filerQuery = (ViewBag.FilerQuery as FilerQuery) ?? new FilerQuery();
+}
+<div class="mb-4">
+    <form asp-area=""
+          asp-controller="Blog"
+          asp-action="Filer"
+          method="get">
+        <partial name="_SearchForm" />
+    </form>
+</div>
+
+<div class="p-4">
+    @if (!string.IsNullOrWhiteSpace(filerQuery.Keyword))
+    {
+        <h3 class="text-primary mb-3">
+            Những File chứa từ khóa '@filerQuery.Keyword'
+        </h3>
+    }
+
+    @foreach (var filerItem in Model)
+    {
+        <partial name="_FilerItem" model="filerItem" />
+    }
+    
+</div>

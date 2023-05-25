@@ -1,0 +1,31 @@
+﻿@using WebHotel.Services.Repositories;
+@model IPagedList<Hotel>
+
+@{
+    ViewData["PageTitle"] = "Dịch vụ";
+
+    var hotelQuery = (ViewBag.HotelQuery as HotelQuery) ?? new HotelQuery();
+}
+<div class="mb-4">
+    <form asp-area=""
+          asp-controller="Blog"
+          asp-action="Hotel"
+          method="get">
+        <partial name="_SearchForm" />
+    </form>
+</div>
+
+<div class="p-4">
+    @if (!string.IsNullOrWhiteSpace(hotelQuery.Keyword))
+    {
+        <h3 class="text-primary mb-3">
+            Những khách sạn chứa từ khóa '@hotelQuery.Keyword'
+        </h3>
+    }
+
+    @foreach (var hotelItem in Model)
+    {
+        <partial name="_HotelItem" model="hotelItem" />
+    }
+    
+</div>

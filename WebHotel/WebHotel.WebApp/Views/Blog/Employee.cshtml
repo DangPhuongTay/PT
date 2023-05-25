@@ -1,0 +1,31 @@
+﻿@using WebHotel.Services.Repositories;
+@model IPagedList<Employee>
+
+@{
+    ViewData["PageTitle"] = "Nhân viên";
+
+    var employeeQuery = (ViewBag.EmployeeQuery as EmployeeQuery) ?? new EmployeeQuery();
+}
+<div class="mb-4">
+    <form asp-area=""
+          asp-controller="Blog"
+          asp-action="Employee"
+          method="get">
+        <partial name="_SearchForm" />
+    </form>
+</div>
+
+<div class="p-4">
+    @if (!string.IsNullOrWhiteSpace(employeeQuery.Keyword))
+    {
+        <h3 class="text-primary mb-3">
+            Những nhân viên có tên '@employeeQuery.Keyword'
+        </h3>
+    }
+
+    @foreach (var employeeItem in Model)
+    {
+        <partial name="_EmployeeItem" model="employeeItem" />
+    }
+    
+</div>

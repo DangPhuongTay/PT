@@ -1,0 +1,45 @@
+﻿@model Service
+
+<article class="blog-entry mb-4">
+    <div class="card">
+        <div class="row g-0">
+        
+            <div class="col-md-12">
+                <div class="card-body">
+                    <h5 class="card-title ">
+                        
+                        @Model.Name
+                        
+                    </h5>
+                    <p class="card-text">
+                        <small class="text-muted">
+                            Đơn vị:
+                        </small>
+                      
+                        <span class="text-primary">
+                            @Model.Unit
+                        </span>
+                        
+                        <small class="text-muted">
+                            Giá:
+                        </small>
+                        <span class="text-primary">
+                           
+                                @Model.Price
+                           
+                        </span>
+                    </p>
+                    
+                    
+                    <div class="text-end">
+                        <a
+                           class="btn btn-primary"
+                           title="@Model.Name">
+                            Xem chi tiết
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</article>

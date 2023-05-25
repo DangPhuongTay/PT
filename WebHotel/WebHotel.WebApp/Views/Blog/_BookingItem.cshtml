@@ -1,0 +1,44 @@
+﻿@model Booking
+
+<article class="blog-entry mb-4">
+    <div class="card">
+        <div class="row g-0">
+
+            <div class="col-md-12">
+                <div class="card-body">
+                    <h5 class="card-title ">
+
+                        @Model.RoomName
+
+                    </h5>
+                    <p class="card-text">
+                        <small class="text-muted">
+                            Khách đặt phòng:
+                        </small>
+
+                        <span class="text-primary">
+                            @Model.UserName
+                        </span>
+                      
+                        <small class="text-muted">
+                            Ngày đặt:
+                        </small>
+                        <span class="text-primary">
+
+                            @Model.Booking_Date
+
+                        </span>
+                    </p>
+
+
+                    <div class="text-end">
+                        <a class="btn btn-primary"
+                           title="@Model.RoomName">
+                            Xem chi tiết
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</article>

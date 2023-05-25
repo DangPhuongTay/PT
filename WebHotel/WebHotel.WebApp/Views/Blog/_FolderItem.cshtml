@@ -1,0 +1,26 @@
+﻿@model Folder
+
+<article class="blog-entry mb-4">
+    <div class="card">
+        <div class="row g-0">
+
+            <div class="col-md-12">
+                <div class="card-body">
+                    <h6 class="card-title ">
+                      @Model.Name
+                    </h6>
+                    <p class="card-text">
+                        <small class="text-muted">
+                            Dung lượng:
+                        </small>
+
+                        <span class="text-primary">
+                            @Model.Size
+                        </span>
+                    </p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</article>

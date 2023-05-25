@@ -1,0 +1,31 @@
+﻿@using WebHotel.Services.Repositories;
+@model IPagedList<Folder>
+
+@{
+    ViewData["PageTitle"] = "Folder";
+
+    var folderQuery = (ViewBag.FolderQuery as FolderQuery) ?? new FolderQuery();
+}
+<div class="mb-4">
+    <form asp-area=""
+          asp-controller="Blog"
+          asp-action="Folder"
+          method="get">
+        <partial name="_SearchForm" />
+    </form>
+</div>
+
+<div class="p-4">
+    @if (!string.IsNullOrWhiteSpace(folderQuery.Keyword))
+    {
+        <h3 class="text-primary mb-3">
+            Những Folder chứa từ khóa '@folderQuery.Keyword'
+        </h3>
+    }
+
+    @foreach (var folderItem in Model)
+    {
+        <partial name="_FolderItem" model="folderItem" />
+    }
+    
+</div>

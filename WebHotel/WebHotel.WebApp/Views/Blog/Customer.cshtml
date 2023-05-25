@@ -1,0 +1,31 @@
+﻿@using WebHotel.Services.Repositories;
+@model IPagedList<Customer>
+
+@{
+    ViewData["PageTitle"] = "Khách hàng";
+
+    var customerQuery = (ViewBag.CustomerQuery as CustomerQuery) ?? new CustomerQuery();
+}
+<div class="mb-4">
+    <form asp-area=""
+          asp-controller="Blog"
+          asp-action="Customer"
+          method="get">
+        <partial name="_SearchForm" />
+    </form>
+</div>
+
+<div class="p-4">
+    @if (!string.IsNullOrWhiteSpace(customerQuery.Keyword))
+    {
+        <h3 class="text-primary mb-3">
+            Những khách hàng chứa từ khóa '@customerQuery.Keyword'
+        </h3>
+    }
+
+    @foreach (var customerItem in Model)
+    {
+        <partial name="_CustomerItem" model="customerItem" />
+    }
+    
+</div>

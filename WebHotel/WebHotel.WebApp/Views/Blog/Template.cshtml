@@ -1,0 +1,31 @@
+﻿@using WebHotel.Services.Repositories;
+@model IPagedList<Template>
+
+@{
+    ViewData["PageTitle"] = "Template";
+
+    var templateQuery = (ViewBag.TemplateQuery as TemplateQuery) ?? new TemplateQuery();
+}
+<div class="mb-4">
+    <form asp-area=""
+          asp-controller="Blog"
+          asp-action="Template"
+          method="get">
+        <partial name="_SearchForm" />
+    </form>
+</div>
+
+<div class="p-4">
+    @if (!string.IsNullOrWhiteSpace(templateQuery.Keyword))
+    {
+        <h3 class="text-primary mb-3">
+            Những Template chứa từ khóa '@templateQuery.Keyword'
+        </h3>
+    }
+
+    @foreach (var templateItem in Model)
+    {
+        <partial name="_TemplateItem" model="templateItem" />
+    }
+    
+</div>

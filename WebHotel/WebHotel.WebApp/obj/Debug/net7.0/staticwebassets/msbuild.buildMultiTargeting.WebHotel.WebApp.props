@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebHotel.WebApp.props" />
+</Project>

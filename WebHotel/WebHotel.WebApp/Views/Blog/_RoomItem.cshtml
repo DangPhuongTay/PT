@@ -1,0 +1,35 @@
+﻿@model Room
+@{
+    var image = string.IsNullOrWhiteSpace(Model.Image)
+            ? "/images/image_1.jpg"
+            : $"{Model.Image}";
+
+    //<div class="card align-self-center" style="width: 24rem;">
+    //    <img class="card-img-top" src="@image" alt="@Model.Name">
+    //    <div class="card-body">
+    //        <h5 class="card-title"> @Model.Name</h5>
+    //        <p class="card-text">Voucher:  @Model.Voucher.Discount%</p>
+    //        <p class="card-text">Giá: @Model.PriceManagement.Price</p>
+    //        <p class="card-text">Loại phòng: @Model.RoomType.Name</p>
+    //    </div>
+    //</div>
+
+
+
+                <div class="col-lg-4 mb-4">
+                    <div class="card">
+                        <img src="@image" alt="@Model.Name" class="card-img-top">
+                        <div class="card-body">
+                            <h5 class="card-title">@Model.Name</h5>
+                            <p class="card-text">Voucher:  @Model.Voucher.Discount%</p>
+                            <p class="card-text">Giá: @Model.PriceManagement.Price</p>
+                            <p class="card-text">Loại phòng: @Model.RoomType.Name</p>
+                            <a href="" class="btn btn-primary btn-sm">Xem thêm</a>
+                          
+                        </div>
+                    </div>
+                </div>
+
+
+
+}

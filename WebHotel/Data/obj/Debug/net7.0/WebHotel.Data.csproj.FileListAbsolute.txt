@@ -1,0 +1,17 @@
+C:\Users\GIGABYTE\Desktop\WebHotel\Data\bin\Debug\net7.0\WebHotel.Data.deps.json
+C:\Users\GIGABYTE\Desktop\WebHotel\Data\bin\Debug\net7.0\WebHotel.Data.runtimeconfig.json
+C:\Users\GIGABYTE\Desktop\WebHotel\Data\bin\Debug\net7.0\WebHotel.Data.dll
+C:\Users\GIGABYTE\Desktop\WebHotel\Data\bin\Debug\net7.0\WebHotel.Data.pdb
+C:\Users\GIGABYTE\Desktop\WebHotel\Data\bin\Debug\net7.0\WebHotel.Core.dll
+C:\Users\GIGABYTE\Desktop\WebHotel\Data\bin\Debug\net7.0\WebHotel.Core.pdb
+C:\Users\GIGABYTE\Desktop\WebHotel\Data\obj\Debug\net7.0\WebHotel.Data.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\Desktop\WebHotel\Data\obj\Debug\net7.0\WebHotel.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIGABYTE\Desktop\WebHotel\Data\obj\Debug\net7.0\WebHotel.Data.AssemblyInfoInputs.cache
+C:\Users\GIGABYTE\Desktop\WebHotel\Data\obj\Debug\net7.0\WebHotel.Data.AssemblyInfo.cs
+C:\Users\GIGABYTE\Desktop\WebHotel\Data\obj\Debug\net7.0\WebHotel.Data.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\Desktop\WebHotel\Data\obj\Debug\net7.0\WebHotel.Data.csproj.CopyComplete
+C:\Users\GIGABYTE\Desktop\WebHotel\Data\obj\Debug\net7.0\WebHotel.Data.dll
+C:\Users\GIGABYTE\Desktop\WebHotel\Data\obj\Debug\net7.0\refint\WebHotel.Data.dll
+C:\Users\GIGABYTE\Desktop\WebHotel\Data\obj\Debug\net7.0\WebHotel.Data.pdb
+C:\Users\GIGABYTE\Desktop\WebHotel\Data\obj\Debug\net7.0\WebHotel.Data.genruntimeconfig.cache
+C:\Users\GIGABYTE\Desktop\WebHotel\Data\obj\Debug\net7.0\ref\WebHotel.Data.dll
