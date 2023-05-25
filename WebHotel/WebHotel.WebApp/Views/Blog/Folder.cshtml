@@ -9,6 +9,7 @@
 <div class="mb-4">
     <form asp-area=""
           asp-controller="Blog"
+          class="d-flex justify-content-center"
           asp-action="Folder"
           method="get">
         <partial name="_SearchForm" />
@@ -22,10 +23,14 @@
             Những Folder chứa từ khóa '@folderQuery.Keyword'
         </h3>
     }
+    <section id="gallery">
 
+        <div class="row">
     @foreach (var folderItem in Model)
     {
         <partial name="_FolderItem" model="folderItem" />
     }
-    
+    </div>
+        </div>
+    </section>
 </div>

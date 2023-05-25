@@ -9,6 +9,7 @@
 <div class="mb-4">
     <form asp-area=""
           asp-controller="Blog"
+          class="d-flex justify-content-center"
           asp-action="Hotel"
           method="get">
         <partial name="_SearchForm" />
@@ -22,10 +23,14 @@
             Những khách sạn chứa từ khóa '@hotelQuery.Keyword'
         </h3>
     }
+    <section id="gallery">
 
+        <div class="row">
     @foreach (var hotelItem in Model)
     {
         <partial name="_HotelItem" model="hotelItem" />
     }
-    
+        </div>
 </div>
+    </section>
+

@@ -10,6 +10,7 @@
     <form asp-area=""
           asp-controller="Blog"
           asp-action="Booking"
+          class="d-flex justify-content-center"
           method="get">
         <partial name="_SearchForm" />
     </form>
@@ -22,10 +23,14 @@
             Những phòng được đặt chứa từ khóa '@bookingQuery.Keyword'
         </h3>
     }
+    <section id="gallery">
 
+        <div class="row">
     @foreach (var bookingItem in Model)
     {
         <partial name="_BookingItem" model="bookingItem" />
     }
-    
+</div>
+        </div>
+    </section>
 </div>

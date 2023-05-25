@@ -10,6 +10,7 @@
     <form asp-area=""
           asp-controller="Blog"
           asp-action="Filer"
+          class="d-flex justify-content-center"
           method="get">
         <partial name="_SearchForm" />
     </form>
@@ -22,10 +23,14 @@
             Những File chứa từ khóa '@filerQuery.Keyword'
         </h3>
     }
+    <section id="gallery">
 
+        <div class="row">
     @foreach (var filerItem in Model)
     {
         <partial name="_FilerItem" model="filerItem" />
     }
-    
+</div>
+        </div>
+    </section>
 </div>

@@ -10,6 +10,7 @@
     <form asp-area=""
           asp-controller="Blog"
           asp-action="Customer"
+          class="d-flex justify-content-center"
           method="get">
         <partial name="_SearchForm" />
     </form>
@@ -22,10 +23,14 @@
             Những khách hàng chứa từ khóa '@customerQuery.Keyword'
         </h3>
     }
+    <section id="gallery">
 
+        <div class="row">
     @foreach (var customerItem in Model)
     {
         <partial name="_CustomerItem" model="customerItem" />
     }
-    
+</div>
+        </div>
+    </section>
 </div>

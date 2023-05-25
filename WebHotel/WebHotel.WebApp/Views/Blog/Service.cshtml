@@ -12,6 +12,7 @@
     <form asp-area=""
           asp-controller="Blog"
           asp-action="Service"
+          class="d-flex justify-content-center"
           method="get">
         <partial name="_SearchForm" />
     </form>
@@ -24,13 +25,16 @@
             Những dịch vụ chứa từ khóa '@serviceQuery.Keyword'
         </h3>
     }
+    <section id="gallery">
 
+        <div class="row">
     @foreach (var serviceItem in Model)
     {
         <partial name="_ServiceItem" model="serviceItem" />
     }
         @if (Model.PageCount > 1)
     {
+ 
         <div class="text-center my-4">
             @if (Model.HasPreviousPage)
             {
