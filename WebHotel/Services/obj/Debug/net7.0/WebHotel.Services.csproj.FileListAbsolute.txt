@@ -15,20 +15,20 @@ C:\Users\GIGABYTE\Desktop\WebHotel\Services\obj\Debug\net7.0\WebHotel.Services.d
 C:\Users\GIGABYTE\Desktop\WebHotel\Services\obj\Debug\net7.0\refint\WebHotel.Services.dll
 C:\Users\GIGABYTE\Desktop\WebHotel\Services\obj\Debug\net7.0\WebHotel.Services.pdb
 C:\Users\GIGABYTE\Desktop\WebHotel\Services\obj\Debug\net7.0\ref\WebHotel.Services.dll
-C:\Users\GIGABYTE\Documents\GitHub\PT\WebHotel\Services\bin\Debug\net7.0\WebHotel.Services.deps.json
-C:\Users\GIGABYTE\Documents\GitHub\PT\WebHotel\Services\bin\Debug\net7.0\WebHotel.Services.dll
-C:\Users\GIGABYTE\Documents\GitHub\PT\WebHotel\Services\bin\Debug\net7.0\WebHotel.Services.pdb
-C:\Users\GIGABYTE\Documents\GitHub\PT\WebHotel\Services\bin\Debug\net7.0\WebHotel.Core.dll
-C:\Users\GIGABYTE\Documents\GitHub\PT\WebHotel\Services\bin\Debug\net7.0\WebHotel.Data.dll
-C:\Users\GIGABYTE\Documents\GitHub\PT\WebHotel\Services\bin\Debug\net7.0\WebHotel.Core.pdb
-C:\Users\GIGABYTE\Documents\GitHub\PT\WebHotel\Services\bin\Debug\net7.0\WebHotel.Data.pdb
-C:\Users\GIGABYTE\Documents\GitHub\PT\WebHotel\Services\obj\Debug\net7.0\WebHotel.Services.csproj.AssemblyReference.cache
-C:\Users\GIGABYTE\Documents\GitHub\PT\WebHotel\Services\obj\Debug\net7.0\WebHotel.Services.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\GIGABYTE\Documents\GitHub\PT\WebHotel\Services\obj\Debug\net7.0\WebHotel.Services.AssemblyInfoInputs.cache
-C:\Users\GIGABYTE\Documents\GitHub\PT\WebHotel\Services\obj\Debug\net7.0\WebHotel.Services.AssemblyInfo.cs
-C:\Users\GIGABYTE\Documents\GitHub\PT\WebHotel\Services\obj\Debug\net7.0\WebHotel.Services.csproj.CoreCompileInputs.cache
-C:\Users\GIGABYTE\Documents\GitHub\PT\WebHotel\Services\obj\Debug\net7.0\WebHotel.Services.csproj.CopyComplete
-C:\Users\GIGABYTE\Documents\GitHub\PT\WebHotel\Services\obj\Debug\net7.0\WebHotel.Services.dll
-C:\Users\GIGABYTE\Documents\GitHub\PT\WebHotel\Services\obj\Debug\net7.0\refint\WebHotel.Services.dll
-C:\Users\GIGABYTE\Documents\GitHub\PT\WebHotel\Services\obj\Debug\net7.0\WebHotel.Services.pdb
-C:\Users\GIGABYTE\Documents\GitHub\PT\WebHotel\Services\obj\Debug\net7.0\ref\WebHotel.Services.dll
+F:\file ôn tập C#\Tip&Trick_2012384\PT\WebHotel\Services\bin\Debug\net7.0\WebHotel.Services.deps.json
+F:\file ôn tập C#\Tip&Trick_2012384\PT\WebHotel\Services\bin\Debug\net7.0\WebHotel.Services.dll
+F:\file ôn tập C#\Tip&Trick_2012384\PT\WebHotel\Services\bin\Debug\net7.0\WebHotel.Services.pdb
+F:\file ôn tập C#\Tip&Trick_2012384\PT\WebHotel\Services\bin\Debug\net7.0\WebHotel.Core.dll
+F:\file ôn tập C#\Tip&Trick_2012384\PT\WebHotel\Services\bin\Debug\net7.0\WebHotel.Data.dll
+F:\file ôn tập C#\Tip&Trick_2012384\PT\WebHotel\Services\bin\Debug\net7.0\WebHotel.Core.pdb
+F:\file ôn tập C#\Tip&Trick_2012384\PT\WebHotel\Services\bin\Debug\net7.0\WebHotel.Data.pdb
+F:\file ôn tập C#\Tip&Trick_2012384\PT\WebHotel\Services\obj\Debug\net7.0\WebHotel.Services.csproj.AssemblyReference.cache
+F:\file ôn tập C#\Tip&Trick_2012384\PT\WebHotel\Services\obj\Debug\net7.0\WebHotel.Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\file ôn tập C#\Tip&Trick_2012384\PT\WebHotel\Services\obj\Debug\net7.0\WebHotel.Services.AssemblyInfoInputs.cache
+F:\file ôn tập C#\Tip&Trick_2012384\PT\WebHotel\Services\obj\Debug\net7.0\WebHotel.Services.AssemblyInfo.cs
+F:\file ôn tập C#\Tip&Trick_2012384\PT\WebHotel\Services\obj\Debug\net7.0\WebHotel.Services.csproj.CoreCompileInputs.cache
+F:\file ôn tập C#\Tip&Trick_2012384\PT\WebHotel\Services\obj\Debug\net7.0\WebHotel.Services.csproj.CopyComplete
+F:\file ôn tập C#\Tip&Trick_2012384\PT\WebHotel\Services\obj\Debug\net7.0\WebHotel.Services.dll
+F:\file ôn tập C#\Tip&Trick_2012384\PT\WebHotel\Services\obj\Debug\net7.0\refint\WebHotel.Services.dll
+F:\file ôn tập C#\Tip&Trick_2012384\PT\WebHotel\Services\obj\Debug\net7.0\WebHotel.Services.pdb
+F:\file ôn tập C#\Tip&Trick_2012384\PT\WebHotel\Services\obj\Debug\net7.0\ref\WebHotel.Services.dll
