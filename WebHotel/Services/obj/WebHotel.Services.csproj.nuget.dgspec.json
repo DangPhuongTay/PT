@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\file ôn tập C#\\Tip&Trick_2012384\\PT\\WebHotel\\Services\\WebHotel.Services.csproj": {}
+    "C:\\Users\\GIGABYTE\\Documents\\GitHub\\PT\\WebHotel\\Services\\WebHotel.Services.csproj": {}
   },
   "projects": {
-    "F:\\file ôn tập C#\\Tip&Trick_2012384\\PT\\WebHotel\\Core\\WebHotel.Core.csproj": {
+    "C:\\Users\\GIGABYTE\\Documents\\GitHub\\PT\\WebHotel\\Core\\WebHotel.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\file ôn tập C#\\Tip&Trick_2012384\\PT\\WebHotel\\Core\\WebHotel.Core.csproj",
+        "projectUniqueName": "C:\\Users\\GIGABYTE\\Documents\\GitHub\\PT\\WebHotel\\Core\\WebHotel.Core.csproj",
         "projectName": "WebHotel.Core",
-        "projectPath": "F:\\file ôn tập C#\\Tip&Trick_2012384\\PT\\WebHotel\\Core\\WebHotel.Core.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "F:\\file ôn tập C#\\Tip&Trick_2012384\\PT\\WebHotel\\Core\\obj\\",
+        "projectPath": "C:\\Users\\GIGABYTE\\Documents\\GitHub\\PT\\WebHotel\\Core\\WebHotel.Core.csproj",
+        "packagesPath": "C:\\Users\\GIGABYTE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GIGABYTE\\Documents\\GitHub\\PT\\WebHotel\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\GIGABYTE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,24 +60,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\file ôn tập C#\\Tip&Trick_2012384\\PT\\WebHotel\\Data\\WebHotel.Data.csproj": {
+    "C:\\Users\\GIGABYTE\\Documents\\GitHub\\PT\\WebHotel\\Data\\WebHotel.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\file ôn tập C#\\Tip&Trick_2012384\\PT\\WebHotel\\Data\\WebHotel.Data.csproj",
+        "projectUniqueName": "C:\\Users\\GIGABYTE\\Documents\\GitHub\\PT\\WebHotel\\Data\\WebHotel.Data.csproj",
         "projectName": "WebHotel.Data",
-        "projectPath": "F:\\file ôn tập C#\\Tip&Trick_2012384\\PT\\WebHotel\\Data\\WebHotel.Data.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "F:\\file ôn tập C#\\Tip&Trick_2012384\\PT\\WebHotel\\Data\\obj\\",
+        "projectPath": "C:\\Users\\GIGABYTE\\Documents\\GitHub\\PT\\WebHotel\\Data\\WebHotel.Data.csproj",
+        "packagesPath": "C:\\Users\\GIGABYTE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GIGABYTE\\Documents\\GitHub\\PT\\WebHotel\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\GIGABYTE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -85,14 +86,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "F:\\file ôn tập C#\\Tip&Trick_2012384\\PT\\WebHotel\\Core\\WebHotel.Core.csproj": {
-                "projectPath": "F:\\file ôn tập C#\\Tip&Trick_2012384\\PT\\WebHotel\\Core\\WebHotel.Core.csproj"
+              "C:\\Users\\GIGABYTE\\Documents\\GitHub\\PT\\WebHotel\\Core\\WebHotel.Core.csproj": {
+                "projectPath": "C:\\Users\\GIGABYTE\\Documents\\GitHub\\PT\\WebHotel\\Core\\WebHotel.Core.csproj"
               }
             }
           }
@@ -138,24 +140,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\file ôn tập C#\\Tip&Trick_2012384\\PT\\WebHotel\\Services\\WebHotel.Services.csproj": {
+    "C:\\Users\\GIGABYTE\\Documents\\GitHub\\PT\\WebHotel\\Services\\WebHotel.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\file ôn tập C#\\Tip&Trick_2012384\\PT\\WebHotel\\Services\\WebHotel.Services.csproj",
+        "projectUniqueName": "C:\\Users\\GIGABYTE\\Documents\\GitHub\\PT\\WebHotel\\Services\\WebHotel.Services.csproj",
         "projectName": "WebHotel.Services",
-        "projectPath": "F:\\file ôn tập C#\\Tip&Trick_2012384\\PT\\WebHotel\\Services\\WebHotel.Services.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "F:\\file ôn tập C#\\Tip&Trick_2012384\\PT\\WebHotel\\Services\\obj\\",
+        "projectPath": "C:\\Users\\GIGABYTE\\Documents\\GitHub\\PT\\WebHotel\\Services\\WebHotel.Services.csproj",
+        "packagesPath": "C:\\Users\\GIGABYTE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GIGABYTE\\Documents\\GitHub\\PT\\WebHotel\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\GIGABYTE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -164,17 +166,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "F:\\file ôn tập C#\\Tip&Trick_2012384\\PT\\WebHotel\\Core\\WebHotel.Core.csproj": {
-                "projectPath": "F:\\file ôn tập C#\\Tip&Trick_2012384\\PT\\WebHotel\\Core\\WebHotel.Core.csproj"
+              "C:\\Users\\GIGABYTE\\Documents\\GitHub\\PT\\WebHotel\\Core\\WebHotel.Core.csproj": {
+                "projectPath": "C:\\Users\\GIGABYTE\\Documents\\GitHub\\PT\\WebHotel\\Core\\WebHotel.Core.csproj"
               },
-              "F:\\file ôn tập C#\\Tip&Trick_2012384\\PT\\WebHotel\\Data\\WebHotel.Data.csproj": {
-                "projectPath": "F:\\file ôn tập C#\\Tip&Trick_2012384\\PT\\WebHotel\\Data\\WebHotel.Data.csproj"
+              "C:\\Users\\GIGABYTE\\Documents\\GitHub\\PT\\WebHotel\\Data\\WebHotel.Data.csproj": {
+                "projectPath": "C:\\Users\\GIGABYTE\\Documents\\GitHub\\PT\\WebHotel\\Data\\WebHotel.Data.csproj"
               }
             }
           }
@@ -210,7 +213,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

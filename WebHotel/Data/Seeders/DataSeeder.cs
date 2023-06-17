@@ -419,7 +419,7 @@ namespace WebHotel.Data.Seeders
                 new()
                 {
                     Name = "Phòng A1",
-                    Image = "https://picsum.photos/200",
+                    Image = "https://picsum.photos/id/237/200/300",
                     Video = "https://picsum.photos/300",
                     isDelete = false,
                     Status = true,
@@ -432,7 +432,7 @@ namespace WebHotel.Data.Seeders
                 new()
                 {
                     Name = "Phòng A2",
-                    Image = "https://picsum.photos/200",
+                    Image = "https://picsum.photos/id/237/200/300",
                     Video = "https://picsum.photos/300",
                     isDelete = false,
                     Status = true,
@@ -445,7 +445,7 @@ namespace WebHotel.Data.Seeders
                 new()
                 {
                     Name = "Phòng A3",
-                    Image = "https://picsum.photos/200",
+                    Image = "https://picsum.photos/id/237/200/300",
                     Video = "https://picsum.photos/300",
                     isDelete = false,
                     Status = true,
